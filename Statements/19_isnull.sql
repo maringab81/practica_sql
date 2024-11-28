@@ -1,0 +1,1 @@
+SELECT name, ISNULL (age, 0) AS age FROM users; --llena los valores nulos como 0.

@@ -1,0 +1,1 @@
+SELECT Count(age) FROM users HAVING COUNT(age) >  -- limita la agrupación

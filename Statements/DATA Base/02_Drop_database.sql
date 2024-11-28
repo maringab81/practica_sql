@@ -1,0 +1,1 @@
+DROP DATABASE segunda_clase

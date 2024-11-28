@@ -1,0 +1,1 @@
+UPDATE users SET age = 42 WHERE user_id = 5; -- siempre usar where en un UPDATE

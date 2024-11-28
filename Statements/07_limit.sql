@@ -1,0 +1,1 @@
+SELECT * FROM users WHERE age > 20 OR age = 15 LIMIT 3; --Limit limita la cantidad de items que requerimos.
