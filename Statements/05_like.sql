@@ -1,0 +1,1 @@
+SELECT name,last_name,age FROM users WHERE email LIKE "%@gmail.com"; --siempre hay que usar %
